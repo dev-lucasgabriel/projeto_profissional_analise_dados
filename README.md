@@ -2,5 +2,5 @@
 Curso: Ciência de Dados
 Professora: Natália
 Alunos: Lucas Gabriel e Deivison Fellype
-EFG José Luiz Bittencourt 
+Instituição: EFG José Luiz Bittencourt 
 
